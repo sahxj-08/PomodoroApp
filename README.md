@@ -14,4 +14,4 @@ Future Additions:
 - Scheduled breaks
 
 TechStack:
--HTML/CSS, JavaScript
+- HTML/CSS, JavaScript
